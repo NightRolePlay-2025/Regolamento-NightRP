@@ -48,9 +48,3 @@ Questo regolamento ha lo scopo di mantenere un ambiente divertente, sicuro e coe
 
 ## 10. Modifiche al regolamento
 Il regolamento può essere aggiornato dallo staff. Le modifiche saranno comunicate ai giocatori; è responsabilità dei giocatori mantenersi informati.
-
----
-
-### Note per la personalizzazione
-- Sostituisci i paragrafi sulle politiche PvP/multi-account/appeal con le regole specifiche del tuo server.
-- Aggiungi sezioni per plugin speciali, meccaniche personalizzate o eventi.
